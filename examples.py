@@ -7,6 +7,7 @@ print("-"*45)
 
 #text
 print(text.bold+"Bold"+end)
+print(text.italic+"Italic"+end)
 print(text.underline+"Underline"+end)
 print(text.blink+"Blink"+end)
 print(text.invert+"Invert"+end)
@@ -18,7 +19,7 @@ print(text.yellow+"Yellow"+end)
 print(text.red+"Red"+end)
 print(text.magenta+"Magenta"+end)
 print(text.white+"White"+end)
-print(text.black+"Black")
+print(text.black+"Black"+end)
 
 #highlight
 print(highlight.red+"Red"+end)
