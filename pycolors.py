@@ -1,5 +1,3 @@
-#Siddharth Dushantha
-#3 September 2017
 class text:
    purple = "\033[95m"
    cyan = "\033[96m"
@@ -14,6 +12,7 @@ class text:
    underline = "\033[4m"
    blink = "\033[5m"
    invert = "\033[7m"
+   italic = '\033[3m'
    black = "\033[30m"
 
 class highlight:
