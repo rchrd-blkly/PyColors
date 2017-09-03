@@ -11,4 +11,7 @@
  ```
  You have to have the `end` command at the teh end so that your whole terminal does not get modification you made.
  
- Use the `example.py` to see what commands there are and how they look like.
+## Example
+Use the `example.py` to see what commands there are and how they look like in your terminal.
+ 
+![screen shot 2017-09-03 at 11 01 48](https://user-images.githubusercontent.com/27065646/30002602-9f40a990-90ad-11e7-9209-e00ded8a7838.png)
