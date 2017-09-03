@@ -5,6 +5,7 @@
 ## Usage
  ```
  from pycolors import *
+ 
  print(text.bold+"This text is bold"+end)
  print(highlight.blue+"This text is highlighted with the color blue"+end) 
  ```
