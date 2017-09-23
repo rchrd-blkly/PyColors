@@ -3,11 +3,11 @@
 `pycolors` lets you add colors your output text. This has been tested on Python 2.7.2 and Python 3.6.2.
 
 ## Installation
-```
+```batch
 git clone https://github.com/sdushantha/PyColors.git
  ```
 ## Usage
- ```
+ ```python
  from pycolors import *
  
  print(text.bold+"This text is bold"+end)
